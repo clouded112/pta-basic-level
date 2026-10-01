@@ -37,4 +37,4 @@ int main()
 	}
 	cout << S.substr(bestL, bestLen) << '\n';
 	return 0;
-}//ai生成
+}
